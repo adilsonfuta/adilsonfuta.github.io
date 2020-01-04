@@ -5,3 +5,7 @@
 # tecnologias e linguagens  usadas: javascrit, html , css (scss) , jenkill, 
 
 # Portifolio, com tech skill , projectos, e blogs de tech 
+
+
+
+
