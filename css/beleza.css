@@ -1,28 +1,5 @@
 
-
-*{
-margin: 0;
-padding: 0;
-
-}
-
-body{
-
-    background-color: coral;
-}
+@import url("/css/diferentes_fontes.css");
+@import url("/css/home.css");
 
 
-div{
-    align-content: center;
-    font-family: monospace;
-    padding: 200px;
-    margin-right: 300px;
-    
-}
-
-div img{
-    width: 30%;
-    height:  300px;
-    margin: 2%;
-
-}

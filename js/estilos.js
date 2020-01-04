@@ -1,12 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// estava somente aqui nem sei porque kkkk
+
 var tempo = new Number();
-
 // Tempo em segundos
-
 tempo = 300;
-
-
-
-
 
 function startCountdown(){
 
