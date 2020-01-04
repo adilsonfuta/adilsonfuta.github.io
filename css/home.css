@@ -11,4 +11,54 @@ body{
     background-color:dimgray;
 }
 
+div.home{
+    text-align: center;
+    width: 100%;
+    height: 600px;
+    
+}
 
+
+.home nav  a {
+    text-decoration: none;
+    color: aliceblue;
+
+} 
+
+.home nav ul  {    
+    float: left;
+    list-style: none;
+    display: flexbox;
+    margin-left: 100px;
+    text-decoration: none;
+    padding-top: 40px;
+    font-size: 130%;
+    
+} 
+
+.home nav ul li:hover  {    
+    
+  border-bottom: 1px solid #00FFFF;  
+} 
+
+
+.home  .acercademim{
+    padding-top: 200px;
+    font-family: "mansalva";
+    text-align: center;
+    font-size: 250%;
+    color: azure;
+    text-shadow: #00FFFF 5px;
+
+}
+
+
+.home {
+
+    background-image: url("../img/saberprogramar.jpg");
+    width: 100%;
+    height: 600px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+   
+}
